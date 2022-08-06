@@ -1,8 +1,0 @@
-Welcome to Desperate Defenders
-Here are the rules!
-
-Your aim: To defend the city and defeat 20 monsters
-
-The game ends when 20 monsters have been defeated, 
-or when a monster crosses over the left side of the map. 
-
